@@ -1,5 +1,6 @@
 # dwave-feature-selection-wrapper
 A Python Wrapper code around the Dwave Feature Selection tutorial from their learning resources.
+**Example Data Set used:** [IEEE BigData 2019 Cup: Suspicious Network Event Recognition](https://knowledgepit.ml/suspicious-network-event-recognition/)
 
 ## Usage
 The Tabu Sampler and Simmulater Annealer can also be run.
